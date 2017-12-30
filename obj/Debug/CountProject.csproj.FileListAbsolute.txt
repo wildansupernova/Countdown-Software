@@ -1,0 +1,10 @@
+C:\Users\WILDAN\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.countdown.resources
+C:\Users\WILDAN\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.formUtama.resources
+C:\Users\WILDAN\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\WILDAN\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\CountProject.csproj.GenerateResource.Cache
+C:\Users\WILDAN\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\CountProject.csproj.CoreCompileInputs.cache
+C:\Users\WILDAN\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\WILDAN\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\WILDAN\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\WILDAN\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\WILDAN\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
